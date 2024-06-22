@@ -89,4 +89,4 @@ The highest phase we were able to accomplish is **Phase 3**.
 - Game design (tanks, blocks, sounds)
 
 ## Video Demo
-[Drive Link](https://drive.google.com/drive/folders/1_-XWOK_jRqmUqBkcnhxVPyhYdK0TMoX7?usp=sharing)
+[https://drive.google.com/drive/folders/1_-XWOK_jRqmUqBkcnhxVPyhYdK0TMoX7?usp=sharing](https://drive.google.com/drive/folders/1_-XWOK_jRqmUqBkcnhxVPyhYdK0TMoX7?usp=sharing)
