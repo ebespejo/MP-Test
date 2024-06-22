@@ -11,7 +11,7 @@ Made by Juan Marco Peralta and Ethan Kurt Espejo for CS 12 MP 1.
 
 ## Cells
 
-- **Empty cell**<img src="https://drive.google.com/uc?id=1HwANx-Ca_FXo1YcTjHZnb58GzEGHKCTX" width="15"><br>
+- **Empty cell**   <img src="https://drive.google.com/uc?id=1HwANx-Ca_FXo1YcTjHZnb58GzEGHKCTX" width="16"><br>
     - Tanks can pass through an empty cell.
 - **Brick cell**
     - Tanks cannot pass through a brick cell.
