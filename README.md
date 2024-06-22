@@ -46,7 +46,7 @@ Made by Juan Marco Peralta and Ethan Kurt Espejo for CS 12 MP 1.
 - **Enemy Tank**   <img src="https://drive.google.com/uc?id=1xjvMUjM-Fc2s6YaDcm5q3m2uB3tJra9q" width="20"><br>
     - Requires 1 hit to destroy.
  - **Boss Enemy Tank**   <img src="https://drive.google.com/uc?id=162WMqmk_YpH1wbVSE590JOCOMwb4o5a4" width="20"><img src="https://drive.google.com/uc?id=1IcbwcLhB6HBwy0do15YrfAe5KpY1rv6h" width="20"><img src="https://drive.google.com/uc?id=1wgZioFfNu_bpN2anCcoudhD3fhfPRgpp" width="20"><br>
-    - Randomized to require either 3 hits or 1 hit.
+    - The hits needed to kill a boss tank is randomized from 1-3 hits.
 
 ### Power-ups
 - **Faster Speed**   <img src="https://drive.google.com/uc?id=14dO_V2aTfZ4pYbrCyhDy7za5DNrjZSzC" width="20"><br>
