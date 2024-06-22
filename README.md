@@ -1,6 +1,6 @@
 # Battle City
 
-Made by Juan Marco Peralta and Ethan Kurt B. Espejo for CS 12 MP 1.
+Made by Juan Marco Peralta and Ethan Kurt Espejo for CS 12 MP 1.
 
 ## Controls
 - The `W`, `A,` `S`, `D` keys are used to move the player tank in an upward, leftward, downward, and rightward direction respectively.
