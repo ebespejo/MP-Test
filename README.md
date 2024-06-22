@@ -68,11 +68,11 @@ The legend for creating a map is as follows:
 - `M`: Northeast-leaning mirror
 - `O`: Southeast-leaning mirror
 
-Stage 1 should look like this:
+Stage 1 should look like this:<br>
 <img src="https://drive.google.com/uc?id=1skzxchx3kPagxhbEjlkAotcpMDRlgZpF" width="500"><br>
 _Note that the enemy tanks in the picture have not completely spawned yet._
 
-Stage 2 should look like this:
+Stage 2 should look like this:<br>
 <img src="https://drive.google.com/uc?id=1ZATuDnf6S3Xs5gN66wzxBsJFdre4KWOZ" width="500"><br>
 _Note that the enemy tanks in the picture have not completely spawned yet._
 
