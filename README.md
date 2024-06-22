@@ -9,7 +9,7 @@ Made by Juan Marco Peralta and Ethan Kurt Espejo for CS 12 MP 1.
 - When the game is over, the `R` key is used to restart and play again, and the `Q` key is used to quit the program.
 - The key sequence of `L`, followed by `O`, and then `L` again serves as a cheat code to give the player an extra life.
 
-## Cells
+### Cells
 
 - **Empty cell**   <img src="https://drive.google.com/uc?id=1HwANx-Ca_FXo1YcTjHZnb58GzEGHKCTX" width="20"><br>
     - Tanks can pass through an empty cell.
@@ -40,7 +40,7 @@ Made by Juan Marco Peralta and Ethan Kurt Espejo for CS 12 MP 1.
     - Tanks cannot pass through a home cell.
     - When a bullet hits a home cell, it is destroyed, and the game is instantly over (regardless of the number of lives of the player).
 
-## Tanks
+### Tanks
 - **Player Tank**   <img src="https://drive.google.com/uc?id=1aRPilh-FcQww5K-TTchzN0ZvTorgKWyf" width="20"><br>
     - Controlled by player using the `W`, `A`, `S`, `D` keys.
 - **Enemy Tank**   <img src="https://drive.google.com/uc?id=1xjvMUjM-Fc2s6YaDcm5q3m2uB3tJra9q" width="20"><br>
@@ -48,7 +48,7 @@ Made by Juan Marco Peralta and Ethan Kurt Espejo for CS 12 MP 1.
  - **Boss Enemy Tank**   <img src="https://drive.google.com/uc?id=162WMqmk_YpH1wbVSE590JOCOMwb4o5a4" width="20"><img src="https://drive.google.com/uc?id=1IcbwcLhB6HBwy0do15YrfAe5KpY1rv6h" width="20"><img src="https://drive.google.com/uc?id=1wgZioFfNu_bpN2anCcoudhD3fhfPRgpp" width="20"><br>
     - Requires 3 hits to destroy.
 
-## Power-ups
+### Power-ups
 - **Faster Speed**   <img src="https://drive.google.com/uc?id=14dO_V2aTfZ4pYbrCyhDy7za5DNrjZSzC" width="20"><br>
     - Doubles the player's speed.
 - **Extra Life**   <img src="https://drive.google.com/uc?id=1dCW0FWeP_DnSHEiueNxHn5P-P1aTKpfF" width="20"><br>
