@@ -13,45 +13,45 @@ Made by Juan Marco Peralta and Ethan Kurt Espejo for CS 12 MP 1.
 
 - **Empty cell**   <img src="https://drive.google.com/uc?id=1HwANx-Ca_FXo1YcTjHZnb58GzEGHKCTX" width="20"><br>
     - Tanks can pass through an empty cell.
-- **Brick cell**
+- **Brick cell**   <img src="https://drive.google.com/uc?id=1lJDVC5gosy9zg_c9O2Yq-N2LbMsv61qM" width="20"><br>
     - Tanks cannot pass through a brick cell.
     - When hit by a bullet, the brick cell turns into an empty cell, and the bullet disappears.
-- **Stone cell**
+- **Stone cell**   <img src="https://drive.google.com/uc?id=1p7y4T9NOeYS8M31l0jB0ov36CBUosb3o" width="20"><br>
     - Tanks cannot pass through a stone cell.
     - When hit by a bullet, the stone cell remains a stone cell, and the bullet disappears.
-- **Mirror cell**
+- **Mirror cell**   <img src="https://drive.google.com/uc?id=1OAmHQ6OtWTlGuFbOWZzkU6HzHE7zen5K" width="20"><br>
     - Tanks cannot pass through a mirror cell.
     - There are two *orientations:* northeast-leaning and southeast-leaning.
     - When hit by a bullet, the bullet bounces depending on the orientation.
     - The following image illustrates mirror cells. The top four illustrate bullet-bouncing mechanics for northeast-leaning mirror cells; the bottom four for southeast-leaning mirror cells.
 <br><img src="https://drive.google.com/uc?id=1b0Ob8u_cHqYv_aEoG9FuSdiGKCkOE129" width="500"><br>
-- **Water cell**
+- **Water cell**   <img src="https://drive.google.com/uc?id=1ASMCymvprOOPLpb7duYt9QqUIOX-FwRy" width="20"><br>
     - Tanks cannot pass through a water cell.
     - Bullets pass through water cells.
-- **Cracked brick cell**
+- **Cracked brick cell**   <img src="https://drive.google.com/uc?id=1sTiAah1itP0iD7m2LFakTzye4B1cHDuo" width="20"><br>
     - This represents a “partially broken” version of a brick cell.
     - Tanks cannot pass through a cracked brick cell.
     - When hit by a bullet, the cracked brick cell turns into an empty cell, and the bullet disappears.
     - If cracked brick cells are implemented, a bullet hitting a brick cell turns it into a cracked brick cell (instead of an empty cell).
-- **Forest cell**
+- **Forest cell**   <img src="https://drive.google.com/uc?id=1YkOK0vG8Z2ho_Bq2p1qMa2D32w_ycqqf" width="20"><br>
     - Tanks can pass through a forest cell.
     - Forest cells act pretty much like empty cells, except they *partially obscure* tanks passing through them.
-- **Home cell**
+- **Home cell**   <img src="https://drive.google.com/uc?id=1CMWhakLnl_yx6G0f_Ldn8Nw0Vk260_x_" width="20"><br>
     - Tanks cannot pass through a home cell.
     - When a bullet hits a home cell, it is destroyed, and the game is instantly over (regardless of the number of lives of the player).
 
 ## Tanks
-- **Player Tank**
+- **Player Tank**   <img src="https://drive.google.com/uc?id=1aRPilh-FcQww5K-TTchzN0ZvTorgKWyf" width="20"><br>
     - Controlled by player using the `W`, `A`, `S`, `D` keys.
-- **Enemy Tank**
+- **Enemy Tank**   <img src="https://drive.google.com/uc?id=1xjvMUjM-Fc2s6YaDcm5q3m2uB3tJra9q" width="20"><br>
     - Requires 1 hit to destroy.
- - **Boss Enemy Tank**
+ - **Boss Enemy Tank**   <img src="https://drive.google.com/uc?id=162WMqmk_YpH1wbVSE590JOCOMwb4o5a4" width="20"><img src="https://drive.google.com/uc?id=1IcbwcLhB6HBwy0do15YrfAe5KpY1rv6h" width="20"><img src="https://drive.google.com/uc?id=1wgZioFfNu_bpN2anCcoudhD3fhfPRgpp" width="20"><br>
     - Requires 3 hits to destroy.
 
 ## Power-ups
-- **Faster Speed**
+- **Faster Speed**   <img src="https://drive.google.com/uc?id=14dO_V2aTfZ4pYbrCyhDy7za5DNrjZSzC" width="20"><br>
     - Doubles the player's speed.
-- **Extra Life**
+- **Extra Life**   <img src="https://drive.google.com/uc?id=1dCW0FWeP_DnSHEiueNxHn5P-P1aTKpfF" width="20"><br>
     - Gives the player an extra life.
 
 
