@@ -50,10 +50,10 @@ STAGE_2 = [
     "EFSF0FSF00PBH"
 ]
 
-![Example Image](https://drive.google.com/uc?id=1skzxchx3kPagxhbEjlkAotcpMDRlgZpF)
-
 STAGES = [STAGE_1, STAGE_2]
 ```
+
+![Example Image](https://drive.google.com/uc?id=1skzxchx3kPagxhbEjlkAotcpMDRlgZpF)
 
 The legend for creating a map is as follows:
 - `P`: Player tank's starting position
