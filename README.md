@@ -24,6 +24,20 @@ Made by Juan Marco Peralta and Ethan Kurt Espejo for CS 12 MP 1.
     - When hit by a bullet, the bullet bounces depending on the orientation.
     - The following image illustrates mirror cells. The top four illustrate bullet-bouncing mechanics for northeast-leaning mirror cells; the bottom four for southeast-leaning mirror cells.
 <br><img src="https://drive.google.com/uc?id=1b0Ob8u_cHqYv_aEoG9FuSdiGKCkOE129" width="500"><br>
+- **Water cell**
+    - Tanks cannot pass through a water cell.
+    - Bullets pass through water cells.
+- **Cracked brick cell**
+    - This represents a “partially broken” version of a brick cell.
+    - Tanks cannot pass through a cracked brick cell.
+    - When hit by a bullet, the cracked brick cell turns into an empty cell, and the bullet disappears.
+    - If cracked brick cells are implemented, a bullet hitting a brick cell turns it into a cracked brick cell (instead of an empty cell).
+- **Forest cell**
+    - Tanks can pass through a forest cell.
+    - Forest cells act pretty much like empty cells, except they *partially obscure* tanks passing through them.
+- **Home cell**
+    - Tanks cannot pass through a home cell.
+    - When a bullet hits a home cell, it is destroyed, and the game is instantly over (regardless of the number of lives of the player).
 
 
 ## Instructions
