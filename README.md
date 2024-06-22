@@ -55,13 +55,6 @@ STAGE_2 = [
 
 STAGES = [STAGE_1, STAGE_2]
 ```
-Stage 1 should look like this:
-![Example Image](https://drive.google.com/uc?id=1skzxchx3kPagxhbEjlkAotcpMDRlgZpF)
-_Note that the enemy tanks in the picture have not completely spawned yet._
-
-Stage 2 should look like this:
-![Example Image](https://drive.google.com/uc?id=1ZATuDnf6S3Xs5gN66wzxBsJFdre4KWOZ)
-_Note that the enemy tanks in the picture have not completely spawned yet._
 
 The legend for creating a map is as follows:
 - `P`: Player tank's starting position
@@ -74,6 +67,14 @@ The legend for creating a map is as follows:
 - `H`: Home cell
 - `M`: Northeast-leaning mirror
 - `O`: Southeast-leaning mirror
+
+Stage 1 should look like this:
+<img src="https://drive.google.com/uc?id=1skzxchx3kPagxhbEjlkAotcpMDRlgZpF" width="48">
+_Note that the enemy tanks in the picture have not completely spawned yet._
+
+Stage 2 should look like this:
+![Example Image](https://drive.google.com/uc?id=1ZATuDnf6S3Xs5gN66wzxBsJFdre4KWOZ)
+_Note that the enemy tanks in the picture have not completely spawned yet._
 
 ## Phase
 The highest phase we were able to accomplish is **Phase 3**.
