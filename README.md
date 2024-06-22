@@ -84,9 +84,11 @@ The highest phase we were able to accomplish is **Phase 3**.
 ## Contributions
 **Juan Marco Peralta**
 - Main game program
+- Testing
 
 **Ethan Kurt Espejo**
 - Game design (tanks, blocks, sounds)
+- Testing
 
 ## Video Demo
 [https://drive.google.com/drive/folders/1_-XWOK_jRqmUqBkcnhxVPyhYdK0TMoX7?usp=sharing](https://drive.google.com/drive/folders/1_-XWOK_jRqmUqBkcnhxVPyhYdK0TMoX7?usp=sharing)
