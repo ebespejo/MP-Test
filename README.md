@@ -1,10 +1,13 @@
+# Battle City
+
+Made by Juan Marco Peralta and Ethan Kurt B. Espejo for CS 12 MP 1.
+
 ## Controls
 - The `W`, `A,` `S`, `D` keys are used to move the player tank in an upward, leftward, downward, and rightward direction respectively.
-- Press or hold the `SPACEBAR` to fire bullets.
+- Press or hold the `SPACE BAR` to fire bullets.
 - When the player tank is destroyed, and the player has at least one life remaining, the `F` key is used to respawn the tank.
 - When the game is over, the `R` key is used to restart and play again, and the `Q` key is used to quit the program.
 - The key sequence of `L`, followed by `O`, and then `L` again serves as a cheat code to give the player an extra life.
-
 
 ## Instructions
 
@@ -52,8 +55,11 @@ STAGE_2 = [
 
 STAGES = [STAGE_1, STAGE_2]
 ```
-
+Stage 1 should look like this:
 ![Example Image](https://drive.google.com/uc?id=1skzxchx3kPagxhbEjlkAotcpMDRlgZpF)
+
+Stage 2 should look like this:
+![Example Image](https://drive.google.com/uc?id=1ZATuDnf6S3Xs5gN66wzxBsJFdre4KWOZ)
 
 The legend for creating a map is as follows:
 - `P`: Player tank's starting position
@@ -67,3 +73,15 @@ The legend for creating a map is as follows:
 - `M`: Northeast-leaning mirror
 - `O`: Southeast-leaning mirror
 
+## Phase
+The highest phase we were able to accomplish is **Phase 3**.
+
+## Contributions
+**Juan Marco Peralta**
+- Main game program
+
+**Ethan Kurt Espejo**
+- Game design (tanks, blocks, sounds)
+
+## Video Demo
+<drive link>
