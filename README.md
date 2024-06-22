@@ -10,7 +10,7 @@ Made by Juan Marco Peralta and Ethan Kurt Espejo for CS 12 MP 1.
 - The key sequence of `L`, followed by `O`, and then `L` again serves as a cheat code to give the player an extra life.
 
 ## Cells
-- **Empty cell**
+- **Empty cell**<img src="https://drive.google.com/uc?id=1ASMCymvprOOPLpb7duYt9QqUIOX-FwRy" width="50"><br>
     - Tanks can pass through an empty cell.
 - **Brick cell**
     - Tanks cannot pass through a brick cell.
@@ -38,6 +38,20 @@ Made by Juan Marco Peralta and Ethan Kurt Espejo for CS 12 MP 1.
 - **Home cell**
     - Tanks cannot pass through a home cell.
     - When a bullet hits a home cell, it is destroyed, and the game is instantly over (regardless of the number of lives of the player).
+
+## Tanks
+- **Player Tank**
+    - Controlled by player using the `W`, `A`, `S`, `D` keys.
+- **Enemy Tank**
+    - Requires 1 hit to destroy.
+ - **Boss Enemy Tank**
+    - Requires 3 hits to destroy.
+
+## Power-ups
+- **Faster Speed**
+    - Doubles the player's speed.
+- **Extra Life**
+    - Gives the player an extra life.
 
 
 ## Instructions
