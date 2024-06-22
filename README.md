@@ -9,6 +9,23 @@ Made by Juan Marco Peralta and Ethan Kurt Espejo for CS 12 MP 1.
 - When the game is over, the `R` key is used to restart and play again, and the `Q` key is used to quit the program.
 - The key sequence of `L`, followed by `O`, and then `L` again serves as a cheat code to give the player an extra life.
 
+## Cells
+- **Empty cell**
+    - Tanks can pass through an empty cell.
+- **Brick cell**
+    - Tanks cannot pass through a brick cell.
+    - When hit by a bullet, the brick cell turns into an empty cell, and the bullet disappears.
+- **Stone cell**
+    - Tanks cannot pass through a stone cell.
+    - When hit by a bullet, the stone cell remains a stone cell, and the bullet disappears.
+- **Mirror cell**
+    - Tanks cannot pass through a mirror cell.
+    - There are two *orientations:* northeast-leaning and southeast-leaning.
+    - When hit by a bullet, the bullet bounces depending on the orientation.
+    - The following image illustrates mirror cells. The top four illustrate bullet-bouncing mechanics for northeast-leaning mirror cells; the bottom four for southeast-leaning mirror cells.
+<br><img src="https://drive.google.com/uc?id=1b0Ob8u_cHqYv_aEoG9FuSdiGKCkOE129" width="500"><br>
+
+
 ## Instructions
 
 Before playing the game, make sure that there is a stage file `Stages.py` in the same folder as `BattleCity.py`.
