@@ -10,10 +10,9 @@ Made by Juan Marco Peralta and Ethan Kurt Espejo for CS 12 MP 1.
 - The key sequence of `L`, followed by `O`, and then `L` again serves as a cheat code to give the player an extra life.
 
 ## Cells
-<img src="https://drive.google.com/uc?id=1HwANx-Ca_FXo1YcTjHZnb58GzEGHKCTX" width="50"><br>
-- **Empty cell**
+
+- **Empty cell**<img src="https://drive.google.com/uc?id=1HwANx-Ca_FXo1YcTjHZnb58GzEGHKCTX" width="50"><br>
     - Tanks can pass through an empty cell.
-    <br>
 - **Brick cell**
     - Tanks cannot pass through a brick cell.
     - When hit by a bullet, the brick cell turns into an empty cell, and the bullet disappears.
