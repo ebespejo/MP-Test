@@ -3,7 +3,7 @@
 Made by Juan Marco Peralta and Ethan Kurt Espejo for CS 12 MP 1.
 
 ## Controls
-- The `W`, `A,` `S`, `D` keys are used to move the player tank in an upward, leftward, downward, and rightward direction respectively.
+- The `W`, `A`, `S`, `D` keys are used to move the player tank in an upward, leftward, downward, and rightward direction respectively.
 - Press or hold the `SPACE BAR` to fire bullets.
 - When the player tank is destroyed, and the player has at least one life remaining, the `F` key is used to respawn the tank.
 - When the player loses the game, the `R` key is used to restart and play again, and the `Q` key is used to quit the program.
